@@ -1,3 +1,5 @@
+![Tooger HTML Game Engine Logo](assets/tooger_game_engine_logo.png)
+
 # Tooger HTML Game Engine
 
 Welcome to **Tooger**, a lightweight 2D game engine built from scratch using HTML, JavaScript, and CSS. Designed with a DOM-based architecture, Tooger is a passion project created to explore the low-level mechanics of game development and understand the critical questions to ask when working with a game engine. Whether you're a hobbyist, a learner, or just curious, Tooger offers a simple yet insightful look into building performant 2D games in the browser.
