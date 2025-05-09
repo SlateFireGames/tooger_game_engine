@@ -6,7 +6,7 @@ Welcome to **Tooger**, a lightweight 2D game engine built from scratch using HTM
 
 ## Why Tooger?
 
-At 56, I built Tooger to dive deep into the nuts and bolts of game engines. My goal was to learn how each function—rendering, input handling, game loops—works and how to design features that respect an engine’s capabilities and limitations. By creating Tooger, I learned to ask the right questions, like "How does this impact performance?" or "What’s the simplest way to achieve this?" These lessons are the foundation for my future projects, where I plan to use Unreal Engine to create visually stunning and performant 2D games.
+I built Tooger to dive deep into the nuts and bolts of game engines. My goal was to learn how each function—rendering, input handling, game loops—works and how to design features that respect an engine’s capabilities and limitations. By creating Tooger, I learned to ask the right questions, like "How does this impact performance?" or "What’s the simplest way to achieve this?" These lessons are the foundation for my future projects, where I plan to use Unreal Engine to create visually stunning and performant 2D games.
 
 Tooger is perfect for:
 - Developers who want to understand the inner workings of a game engine.
