@@ -1,4 +1,4 @@
-![Tooger HTML Game Engine Logo](assets/tooger_game_engine_logo.png)
+![Tooger HTML Game Engine Logo](https://www.slatefiregames.com/tooger_game_engine_logo.png)
 
 # Tooger HTML Game Engine
 
